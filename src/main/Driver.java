@@ -7,7 +7,7 @@ import models.PhotoPost;
 import models.Post;
 import utils.ScannerInput;
 
-public class Driver {
+public class Driver { // first commit test
 
     private final NewsFeed newsFeed = new NewsFeed();
 
